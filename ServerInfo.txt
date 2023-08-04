@@ -1,0 +1,11 @@
+Create Date : 2023. 07. 31. (월) 14:17:56 KST
+hostname : vuno-System-ASM50
+IP : 192.168.50.50 172.17.0.1 
+model name	: Intel(R) Core(TM) i9-10920X CPU @ 3.50GHz
+Memory info :
+               total        used        free      shared  buff/cache   available
+Mem:            62Gi       1.1Gi        56Gi        88Mi       4.7Gi        60Gi
+VGA : 
+Disk info :
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  457G   12G  423G   3% /
